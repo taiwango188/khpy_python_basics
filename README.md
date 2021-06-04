@@ -1,8 +1,20 @@
-# 【唯客學院微課程】Python 基礎
+# Python 基礎
+
+## 關於唯客學院：
+
+* [唯客學院網址](https://www.victorgau.com)
+* [唯客學院部落格](https://victorgau.com/blog/)
+* [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+
+## 課程內容：
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_python_basics/)
 
-### 內容說明：
+### 1. 文件導覽
+
+* [Python Documentation](https://docs.python.org/3/)
+
+### 2. 實作引導
 
 Python基礎的部分，我們希望引導學員藉由動手做去熟悉Python環境的使用，並藉由動手做去了解基本資料型態(int, float, str, bool)、基本容器型別 (list, tuple, dict, set)及基本語法(if, loops, functions, exception handling)的使用。
 
@@ -24,6 +36,9 @@ python主要是使用縮排來標示出不同的`程式區塊`，其基本的語
   
   嘗試執行特定`程式區塊`，發生錯誤時執行`錯誤處理程式區塊`。
 
+### 3. 自我挑戰
+
+* 完成指定的練習題
 
 #### 補充說明：
 
