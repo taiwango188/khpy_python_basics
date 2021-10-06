@@ -10,11 +10,11 @@
 
 啟動 virtual environment
 
-    c:\> source activate yourenvname
+    c:\> conda activate yourenvname
 
 停止 virtual environment
 
-    c:\> source deactivate
+    c:\> conda deactivate
 
 刪除 virtual environment
 

@@ -26,9 +26,9 @@
 
 將已安裝之套件及版本輸出成文字檔
 
-    c:\ pip freeze > requirements.txt
+    c:\> pip freeze > requirements.txt
 
 從 requirements.txt 安裝對應套件
 
-    c:\ pip install -r requirements.txt
+    c:\> pip install -r requirements.txt
 
