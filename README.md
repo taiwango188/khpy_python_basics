@@ -8,6 +8,8 @@
 
 ## 課程內容：
 
+投影片:[Python基礎](https://docs.google.com/presentation/d/1U5eMvT5HFUGCsFHe1wDm1XUfOFkKlBJhDZ3FMHMICJA/edit?usp=sharing)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_python_basics/)
 
 ### 1. 文件導覽
