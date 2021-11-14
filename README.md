@@ -10,9 +10,12 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_python_basics/)
 
-### 1. 文件導覽
+### 投影片
 
 * [Python基礎 - 投影片](https://docs.google.com/presentation/d/1U5eMvT5HFUGCsFHe1wDm1XUfOFkKlBJhDZ3FMHMICJA/edit?usp=sharing)
+
+### 1. 文件導覽
+
 * [Python Documentation](https://docs.python.org/3/)
 
 ### 2. 實作引導
