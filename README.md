@@ -6,7 +6,7 @@
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
-### 教學影片
+## 教學影片
 
 * [Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
 
