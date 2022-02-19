@@ -6,13 +6,13 @@
 * [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
+### 教學影片
+
+* [Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
+
 ## 課程內容：
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/khpy_python_basics/)
-
-### 影音教學
-
-* [Python快速入門](https://khpy.teachable.com/p/simple-python-applications)
 
 ### 投影片
 
